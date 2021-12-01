@@ -1,2 +1,2 @@
-# opencv_screen_recorder
+# opencv screen recorder
 Capture screenshots using opencv c++
