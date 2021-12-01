@@ -1,0 +1,5 @@
+#!/bin/bash -e
+
+DIR=`pwd`
+cd /home/arush/Codes/screenRecord
+./main $1
